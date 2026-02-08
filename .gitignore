@@ -1,0 +1,49 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# ImGui files (download separately)
+imgui/
+imgui.cpp
+imgui.h
+imgui_demo.cpp
+imgui_draw.cpp
+imgui_tables.cpp
+imgui_widgets.cpp
+imgui_impl_win32.cpp
+imgui_impl_win32.h
+imgui_impl_dx9.cpp
+imgui_impl_dx9.h
+imgui_internal.h
+imconfig.h
+imstb_*.h
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# OS files
+.DS_Store
+Thumbs.db
